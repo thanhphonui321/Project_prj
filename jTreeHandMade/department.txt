@@ -1,0 +1,11 @@
+HR-Human Resource:
+E111, Le Thi Ca Chua, 123
+E333, Nguyen Van An, 23
+TS-Technical Support:
+E696, Nguyen Thi Ca Muoi, 423
+E222, Nguyen Duc Thanh, 213
+AB-Always be:
+M234, Nguyen Duc Thanh, 2684
+LY-Love you:
+E321, Nguyen Van An, 6324
+F231, Nguyen Thi Hai Yen, 969
